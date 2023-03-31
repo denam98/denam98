@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @denam98
-- 👀 I’m interested in java, PHP, c and etc..
-- 🌱 I’m currently an undergradute software engineer
-- 💞️ I’m looking to collaborate on projects under obove mentioned languages.
+- 👀 AI/ML Enthusiast
+- 👀 Java, python, c, ,AI/ML, React, Angular
+- 🌱 Currently employed as a Associate Software Engineer
+- 💞️ I’m looking to collaborate on projects as a AI/ML Engineer or Fullstack Engineer.
 - 📫 How to reach me - dchamath5@gmail.com
 
 <!---
